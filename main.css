@@ -1,12 +1,15 @@
 body{
     background-attachment: fixed;
     background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
 }
 
-h1, h2, h3, h4, h5, h6
-{
- color:rgb(0,255,0);
+header{
+    height: 70px;
 }
+
+
 .slideshow{
     width: 100%;
     height: 450px;
@@ -17,41 +20,61 @@ h1, h2, h3, h4, h5, h6
     border-width: 20px;
     padding-bottom: 20px;
     position: absolute;
-    top: 450px;
     width: 100%;
     text-align: center;
   }
-.red{
-    color:rgba(255,0,0,0.6);
-    width:30%;
-    left: 0;
+.name{
+    color:white;
+    margin-left: 28px;
+    width: 27%;
+    float: left;
 }
 
-header{
-    background: white; /* transparent effect or opacity*/
+.menu{
+    background: #333; /* transparent effect or opacity*/
     width:100%;
-    height: 20%;
+    height: 70px;
+    display: inline-block;
 }
 
 .nav{
     right:0;
     width: 70%;
+    float:left;
 }
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 25px; 
+    text-align: right;
   }
 li{
-    color:blue;
+    padding: 20px;
+    color:white;
     display: inline;
+    font-size: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+li :hover{
+    background-color: rgb(253, 44, 44);
+    border-radius: 5px;
+    padding: 25px;
+}
+.categories{
+    width: 100%;
 }
 .img-circle{
     height: 300px;
     width: 300px;
     border-radius: 100%;
+    float: left;
+    padding: 40px;
     -moz-border-radius:100%;
     -webkit-border-radius:100%;
+
 }
 
 .triangle{
@@ -60,4 +83,9 @@ li{
     border-left: 50px solid transparent;
     border-right: 50px solid transparent;
     border-bottom: 50px solid rgba(0,255,0,0.6);
+}
+
+footer{
+    width: 100%;
+    display: inline-block;
 }
