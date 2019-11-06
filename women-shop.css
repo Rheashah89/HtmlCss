@@ -1,0 +1,50 @@
+.card{
+    width:83%;
+    text-align:center;
+    font-family:arial;
+    border :2px solid #0f0f0f;
+    box-shadow: 0 9px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius:10%;
+    border-style:groove;
+    /* height: 259px; */
+   
+}
+.row1,.row2{
+    width: 100%;
+    height: inherit;
+    display: inline-flex;
+    right:0;
+    padding: 0 0 20px 0;
+}
+.div1,.div2,.div3,.div4,.div5,.div6,.div7,.div8{
+    width:25%;
+    float:left;
+    padding-left:50px;
+}
+/* #c1{
+    background: url("images/women-jeans.jpg");
+    background-repeat: no-repeat;
+}  */
+img{
+margin-top:10%;
+height:100px;
+}
+button{
+    width:50%;
+    height:40px;
+    background:#0f0f0f;
+    color:#fff;
+    box-shadow: 0 9px 10px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10%;
+}
+
+button:hover{
+background:#fff;
+color:#000;
+}
+
+.card:hover{
+    background: #3f3f3f;
+    color:#fff;
+
+}
