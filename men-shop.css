@@ -45,44 +45,44 @@ button{
 }
 
 #c1:hover{
-    background: url("images/women-jeans.jpg");
+    background: url("images/men1.jpg");
     background-repeat: no-repeat;
     background-size: 300px 300px; 
 }
 
 #c2:hover{
-    background: url("images/shirt4.jpg");
+    background: url("images/men2.jpg");
     background-repeat: no-repeat;
     background-size: 300px 300px; 
 }
 #c3:hover{
-    background: url("images/shirt3.png");
+    background: url("images/men3.jpg");
     background-repeat: no-repeat;
     background-size: 280px 300px; 
 }
 
 #c4:hover{
-    background: url("images/heels.jpg");
+    background: url("images/men4.jpg");
     background-repeat: no-repeat;
     background-size: 300px 300px; 
 }
 #c5:hover{
-    background: url("images/top1.png");
+    background: url("images/men5.jpg");
     background-repeat: no-repeat;
     background-size: 280px 300px; 
 }
 #c6:hover{
-    background: url("images/top3.jpg");
+    background: url("images/men6.jpg");
     background-repeat: no-repeat;
     background-size: 300px 300px; 
 }
 #c7:hover{
-    background: url("images/top2.jpg");
+    background: url("images/men7.jpg");
     background-repeat: no-repeat;
     background-size: 300px 300px; 
 }
 #c8:hover{
-    background: url("images/top4.jpg");
+    background: url("images/men8.jpg");
     background-repeat: no-repeat;
     background-size: 300px 300px; 
 }
