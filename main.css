@@ -87,7 +87,9 @@ a{
 }
 
 .img-circle:hover{
-    padding: 25px;
+    opacity: 1.0;
+    transition: transform .6s ease;
+    transform: scale(1.25);
 }
 
 .container{
@@ -99,6 +101,8 @@ footer{
     background-color: #333;
     width: 100%;
     margin: 0;
+    bottom: 0;
+    position: fixed;
     padding: 0;
     height: 88px;
     display: inline-block;
