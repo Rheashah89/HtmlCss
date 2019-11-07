@@ -77,44 +77,44 @@ button{
 }
 
 #c1:hover{
-    background: url("images/men1.jpg");
+    background: url("images/kid1.jpg");
     background-repeat: no-repeat;
     background-size: 300px 300px; 
 }
 
 #c2:hover{
-    background: url("images/men2.jpg");
+    background: url("images/kid2.jpg");
     background-repeat: no-repeat;
     background-size: 300px 300px; 
 }
 #c3:hover{
-    background: url("images/men3.jpg");
+    background: url("images/kid3.jpg");
     background-repeat: no-repeat;
     background-size: 280px 300px; 
 }
 
 #c4:hover{
-    background: url("images/men4.jpg");
+    background: url("images/kid4.jpg");
     background-repeat: no-repeat;
     background-size: 300px 300px; 
 }
 #c5:hover{
-    background: url("images/men5.jpg");
+    background: url("images/kid5.jpg");
     background-repeat: no-repeat;
     background-size: 280px 300px; 
 }
 #c6:hover{
-    background: url("images/men6.jpg");
+    background: url("images/kid6.jpg");
     background-repeat: no-repeat;
     background-size: 300px 300px; 
 }
 #c7:hover{
-    background: url("images/men7.jpg");
+    background: url("images/kid7.jpg");
     background-repeat: no-repeat;
     background-size: 300px 300px; 
 }
 #c8:hover{
-    background: url("images/men8.jpg");
+    background: url("images/kid8.jpg");
     background-repeat: no-repeat;
     background-size: 300px 300px; 
 }
