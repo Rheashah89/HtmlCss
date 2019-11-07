@@ -1,10 +1,10 @@
 body{
     background: url('images/bg.jpg');
     background-attachment: fixed;
-    background-size: cover;
     background-repeat: no-repeat;
     margin: 0;
     padding: 0;
+    font-family: 'Croissant One', cursive;
 }
 
 header{
@@ -91,10 +91,15 @@ a{
 }
 
 .container{
-    width:100%; 
+    width:100%;
     display: inline-block;
 }
 footer{
+    color: white;
+    background-color: #333;
     width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 88px;
     display: inline-block;
 }
